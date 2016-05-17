@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReduxTwitterDemo</string>
+    <string name="welcome">Welcome to Redux Twitter Demo</string>
+</resources>
